@@ -1,8 +1,13 @@
-build/
 _build/
-_install/
+build/
 *.o
 *.a
 *.so
-*.exe
-log.txt
+*.dylib
+*.gcda
+*.gcno
+*.gcov
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
