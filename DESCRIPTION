@@ -1,0 +1,2 @@
+Solver application package for lab06.
+This package contains the solver executable built with CMake and packaged using CPack.
